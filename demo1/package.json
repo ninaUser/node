@@ -1,0 +1,20 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "demo ceshi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^1.11.3"
+  },
+  "devDependencies": {
+    "mock": "^0.1.1"
+  }
+}
